@@ -1,0 +1,136 @@
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+RRRRXR
+RXRXRR
+RRRRRR
+
+S 0
+------------------------------
+*SRXGR
+RXRXRR
+RRXRXR
+RRRRXR
+RXRXRR
+RRRRRR
+
+S-L 2
+------------------------------
+RSRXGR
+*XRXRR
+RRXRXR
+RRRRXR
+RXRXRR
+RRRRRR
+
+S-L-D 4
+------------------------------
+RSRXGR
+RXRXRR
+*RXRXR
+RRRRXR
+RXRXRR
+RRRRRR
+
+S-L-D-D 6
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+R*RRXR
+RXRXRR
+RRRRRR
+
+S-L-D-D-RD 7
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+RR*RXR
+RXRXRR
+RRRRRR
+
+S-L-D-D-RD-R 9
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+RRRRXR
+RX*XRR
+RRRRRR
+
+S-L-D-D-RD-R-D 11
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+RRRRXR
+RXRXRR
+RR*RRR
+
+S-L-D-D-RD-R-D-D 13
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+RRRRXR
+RXRXRR
+RRR*RR
+
+S-L-D-D-RD-R-D-D-R 15
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+RRRRXR
+RXRXRR
+RRRR*R
+
+S-L-D-D-RD-R-D-D-R-R 17
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+RRRRXR
+RXRXR*
+RRRRRR
+
+S-L-D-D-RD-R-D-D-R-R-RU 18
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+RRRRX*
+RXRXRR
+RRRRRR
+
+S-L-D-D-RD-R-D-D-R-R-RU-U 20
+------------------------------
+RSRXGR
+RXRXRR
+RRXRX*
+RRRRXR
+RXRXRR
+RRRRRR
+
+S-L-D-D-RD-R-D-D-R-R-RU-U-U 22
+------------------------------
+RSRXGR
+RXRXR*
+RRXRXR
+RRRRXR
+RXRXRR
+RRRRRR
+
+S-L-D-D-RD-R-D-D-R-R-RU-U-U-U 24
+------------------------------
+RSRXGR
+RXRXRR
+RRXRXR
+RRRRXR
+RXRXRR
+RRRRRR
+
+S-L-D-D-RD-R-D-D-R-R-RU-U-U-U-LU-G 25
+------------------------------

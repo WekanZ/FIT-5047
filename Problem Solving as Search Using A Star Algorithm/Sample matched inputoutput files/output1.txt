@@ -1,0 +1,26 @@
+SRR
+RRX
+RRG
+
+S 0
+
+SRR
+R*X
+RRG
+
+S-RD 1
+
+SRR
+RRX
+R*G
+
+S-RD-D 3
+
+SRR
+RRX
+RRG
+
+S-RD-D-R-G 5
+
+
+
